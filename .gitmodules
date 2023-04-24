@@ -1,3 +1,6 @@
 [submodule "results-app-ionic-react/sloedp-v2.0"]
 	path = results-app-ionic-react/sloedp-v2.0
 	url = https://github.com/click2tman/sloedp-v2.0.git
+[submodule "results-app-ionic-angular/sloedp-v2-angular"]
+	path = results-app-ionic-angular/sloedp-v2-angular
+	url = https://github.com/click2tman/sloedp-v2-angular.git
