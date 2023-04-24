@@ -4,3 +4,6 @@
 [submodule "results-app-ionic-angular/sloedp-v2-angular"]
 	path = results-app-ionic-angular/sloedp-v2-angular
 	url = https://github.com/click2tman/sloedp-v2-angular.git
+[submodule "drupal-platform/sloedp-v2-drupal10"]
+	path = drupal-platform/sloedp-v2-drupal10
+	url = https://github.com/click2tman/sloedp-v2-drupal10.git
